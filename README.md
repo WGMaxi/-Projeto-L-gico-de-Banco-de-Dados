@@ -1,4 +1,4 @@
-# -Projeto-L-gico-de-Banco-de-Dados
+# -Projeto-Logico-de-Banco-de-Dados
 modelagem do projeto lógico de banco de dados para o cenário de e-commerce
 ## Descrição do Desafio
 Durante o desafio, realize a criação do Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Especifique ainda queries mais complexas dos que apresentadas durante a explicação do desafio. Sendo assim, crie queries SQL com as cláusulas abaixo:
